@@ -1,7 +1,7 @@
 # Hi, I'm Amin 👋
 ## Computer Science and Engineering Student at Alexandria University, Faculty of Engineering | AI Enthusiast
 
-![Coding GIF]([https://media.giphy.com/media/xT0GqI6ZQ5YokzqB9G/giphy.gif](https://images.app.goo.gl/PAWayqZ1TiP99ZpK7))
+![Coding GIF]((https://images.app.goo.gl/PAWayqZ1TiP99ZpK7))
 
 ---
 
