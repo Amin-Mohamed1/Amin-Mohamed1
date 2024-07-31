@@ -4,6 +4,7 @@
 
 
 
+![colourful-illustration-programmer-working_23-2148281410](https://github.com/user-attachments/assets/97773233-f200-4671-8498-a7909e95f561)
 
 
 
