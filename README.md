@@ -1,4 +1,4 @@
-# Hi, I'm Amin ![image](https://github.com/user-attachments/assets/1bd6584c-46ee-4e0a-8a16-af7466406050)
+# Hi, I'm Amin 
 
 ## Computer Science and Engineering Student at Alexandria University, Faculty of Engineering | AI Enthusiast
 
