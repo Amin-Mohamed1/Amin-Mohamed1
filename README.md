@@ -1,6 +1,6 @@
 # Hi, I'm Amin 
 
-## Computer Science and Engineering Student at AU-FOE | AI Enthusiast
+## Computer Engineering Student at AU-FOE | AI Enthusiast
 
 
 
