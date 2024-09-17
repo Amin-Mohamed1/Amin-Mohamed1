@@ -28,7 +28,8 @@
 ---
 
 ### 🏆 **Awards**
-![github-foundations](https://github.com/user-attachments/assets/55886272-045a-46c9-a076-7df8dbd3767c)
+![github-foundations (1)](https://github.com/user-attachments/assets/6600dde0-5506-4d18-88a0-7c6f3fce9ff5)
+
 
 
 **"Code is like humor. When you have to explain it, it’s bad."** - Cory House
