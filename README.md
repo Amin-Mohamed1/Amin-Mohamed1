@@ -28,7 +28,7 @@
 ---
 
 ### 🏆 **Awards**
-![github-foundations (1)](https://github.com/user-attachments/assets/6600dde0-5506-4d18-88a0-7c6f3fce9ff5)
+![github-foundations (1)]([https://github.com/user-attachments/assets/6600dde0-5506-4d18-88a0-7c6f3fce9ff5](https://www.credly.com/earner/earned/badge/7d8a8e81-bfd8-4507-b19c-f9b4b927d5a0))
 
 
 
