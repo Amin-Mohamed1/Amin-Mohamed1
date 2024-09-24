@@ -1,4 +1,4 @@
-# Hi, I'm ** Amin Mohamed**
+# **Amin Mohamed**
 ### Computer Engineering Undergraduate @ Faculty of Engineering, Alexandria University*
 ---
 ### 📚 **Education**
